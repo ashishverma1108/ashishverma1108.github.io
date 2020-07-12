@@ -23,6 +23,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+![Image](https://github.com/ashishverma1108/ashishverma1108.github.io/blob/master/images/messi-1488706853-800.jpg?raw=true)
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](https://github.com/ashishverma1108/ashishverma1108.github.io/blob/master/images/messi-1488706853-800.jpg?raw=true)
